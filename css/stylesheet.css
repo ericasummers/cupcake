@@ -1,0 +1,59 @@
+body {
+  background-color: #F799C1;
+  text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+  color: #941C86;
+  font-family: cursive;
+}
+
+h2 {
+  color: #BA2746;
+  font-family: sans-serif;
+}
+
+p.navbar {
+  display: inline-block;
+  margin: 10px;
+}
+
+a.navlink {
+  font-family: sans-serif;
+  margin: 10px;
+}
+
+p {
+  font-family: sans-serif;
+  color: #811129;
+}
+
+ul.address {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #840515;
+}
+
+ul.menu {
+  font-family: sans-serif;
+  color: #840565;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  width: 20%;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: purple;
+  font-weight: bold;
+}
